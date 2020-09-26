@@ -24,6 +24,15 @@ This dataset contains physical and clinical parameters used to determine PCOS an
 
 
 - **Blood Group**: 
+A+ = 11			
+A- = 12			
+B+ = 13			
+B- = 14			
+O+ =15 			
+O- = 16			
+AB+ =17			
+AB- = 18			
+
 - **Pulse rate(bpm)**:  
 - **RR (breaths/min)**: 
 - **Hb(g/dl)**: 
