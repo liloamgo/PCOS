@@ -14,26 +14,25 @@ This dataset contains physical and clinical parameters used to determine PCOS an
 
           Formula: weight (kg) / [height (m)]2
      With the metric system, the formula for BMI is weight in kilograms divided by height in meters squared. Because height is commonly measured in centimeters, divide height in centimeters by 100 to obtain height in meters.
-
-          BMI Categories
-          ==============================
-          Underweight = <18.5
-          Normal weight = 18.5–24.9
-          Overweight = 25–29.9
-          Obesity = BMI of 30 or greater
+     
+    **BMI Categories**:
+    * Underweight = <18.5
+    * Normal weight = 18.5–24.9
+    * Overweight = 25–29.9
+    * Obesity = BMI of 30 or greater
 
 
 - **Blood Group**: 
-A+ = 11			
-A- = 12			
-B+ = 13			
-B- = 14			
-O+ =15 			
-O- = 16			
-AB+ =17			
-AB- = 18			
+    * **A+** = 11
+    * **A-** = 12
+    * **B+** = 13
+    * **B-** = 14
+    * **O+** =15
+    * **O-** = 16
+    * **AB+** = 17
+    * **AB-** = 18
 
-- **Pulse rate(bpm)**:  
+- **Pulse rate (bpm)**:  
 - **RR (breaths/min)**: 
 - **Hb(g/dl)**: 
 - **Cycle(R/I)**: 
