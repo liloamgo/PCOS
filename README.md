@@ -29,7 +29,7 @@ This dataset contains physical and clinical parameters used to determine PCOS an
 - **Pulse rate (bpm)**: Patient's recorded heart rate.
 - **RR (breaths/min)**: Patient's recorded respiratory rate. 
 - **Hb (g/dl)**: Patient's recorded hemoglobin.
-- **Cycle (R/I)**: Are patient's menstrual cycles regular or irregular? (R = Regular, I = Irregular).
+- **Cycle (R/I)**: Are patient's menstrual cycles regular or irregular?
 - **Cycle length (days)**: Patient's recorded length of cycle.
 - **Marriage Status (Yrs)**: Patient's recorded marital status.
 - **Pregnant (Y/N)**: Is patient pregnant? (0 = No, 1 = Yes).
