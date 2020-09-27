@@ -62,3 +62,12 @@ This dataset contains physical and clinical parameters used to determine PCOS an
 - **Avg F size (L) (mm)**: Patient's recorded average diameter of left follicle.
 - **Avg F size (R) (mm)**: Patient's recorded average diameter of right follicle.
 - **Endometrium (mm)**: Patient's recorded endometrial thickness.
+
+
+### PCOS Prediction Model
+- Informal Report can be found [here](https://github.com/liloamgo/PCOS/blob/master/PCOS%20Prediction%20Model.pptx).
+- Jupyter CleanUp Notebook is located [here](https://github.com/liloamgo/PCOS/blob/master/PCOS_CleanUp.ipynb).
+- Jupyter Profiling Notebook is located [here](https://github.com/liloamgo/PCOS/blob/master/PCOS_Profiling.zip).
+- Jupyter EDA Notebook is located [here](https://github.com/liloamgo/PCOS/blob/master/PCOS_EDA.ipynb).
+- Original Data Extract copy is located [here](https://github.com/liloamgo/PCOS/blob/master/PCOS_raw_data.csv).
+- Modified Data Extract copy is located [here](https://github.com/liloamgo/PCOS/blob/master/PCOS_New.csv).
