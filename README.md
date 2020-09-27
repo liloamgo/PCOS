@@ -48,13 +48,13 @@ This dataset contains physical and clinical parameters used to determine PCOS an
 - **Vit D3 (ng/mL)**: Patient's recorded Vitamin D levels.
 - **PRG (ng/mL)**: Patient's recorded Progesterone Hormone levels.
 - **RBS (mg/dl)**: Patient's recorded Random Blood Sugar levels.
-- **Weight gain (Y/N)**: Has patient gained weight?
-- **Hair growth (Y/N)**: Does patient have excess hair growth?
-- **Skin darkening (Y/N)**: Does patient have darkening of the skin?
-- **Hair loss (Y/N)**: Has patient had hair loss? 
-- **Pimples (Y/N)**: Has patient have acne? 
-- **Fast food (Y/N)**: Does patient eat fast food?
-- **Reg.Exercise (Y/N)**: Does patient exercise regularly?
+- **Weight gain (Y/N)**: Has patient gained weight? (0 = No, 1 = Yes).
+- **Hair growth (Y/N)**: Does patient have excess hair growth? (0 = No, 1 = Yes).
+- **Skin darkening (Y/N)**: Does patient have darkening of the skin? (0 = No, 1 = Yes).
+- **Hair loss (Y/N)**: Has patient had hair loss? (0 = No, 1 = Yes).
+- **Pimples (Y/N)**: Has patient have acne? (0 = No, 1 = Yes).
+- **Fast food (Y/N)**: Does patient eat fast food? (0 = No, 1 = Yes).
+- **Reg.Exercise (Y/N)**: Does patient exercise regularly? (0 = No, 1 = Yes).
 - **BP Systolic (mmHg)**: Patient's recorded systolic pressure. 
 - **BP Diastolic (mmHg)**: Patient's recorded diastolic pressure.
 - **Follicle No (L)**: Patient's recorded total number of follicles present in left ovary.
